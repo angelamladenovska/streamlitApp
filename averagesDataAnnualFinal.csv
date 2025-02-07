@@ -1,0 +1,30 @@
+city,averageTempAnnual,averagePrecipitationAnnual,averageWindSpeedAnnual,averageAQIAnnual,mainPollutantAnnual,mainAQICategoryAnnual,lat,lon
+Athens,17,3,7,56,PM2.5,Moderate,33.9519,-83.3576
+Baltimore,16,2,14,50,Ozone,Good,39.2904,-76.6122
+Boston,12,3,16,45,Ozone,Good,42.3601,-71.0589
+Chapel Hill,17,3,9,41,Ozone,Good,35.9132,-79.0558
+Charlotte,17,3,9,51,Ozone,Good,35.2271,-80.8431
+Chicago,12,2,15,63,PM2.5,Moderate,41.8781,87.6298
+Cleveland,12,2,17,57,PM2.5,Moderate,41.4993,-81.6944
+Dallas,20,2,12,66,Ozone,Moderate,32.7767,-96.797
+Denver,10,1,12,67,Ozone,Moderate,39.7392,-104.9903
+Detroit,10,2,15,61,PM2.5,Moderate,42.3314,-83.0458
+Greensboro,15,3,10,45,PM2.5,Good,36.0726,-79.7915
+Houston,22,2,16,71,PM2.5,Moderate,29.7604,-95.3698
+Ithaca,9,3,11,36,Ozone,Good,42.444,-76.5019
+Kahului,24,0,20,16,PM2.5,Good,20.889,-156.4743
+Los Angeles,17,1,4,80,Ozone,Moderate,34.0522,-118.2437
+Madison,10,2,11,49,PM2.5,Good,43.0731,-89.4012
+Miami,26,5,11,49,PM2.5,Good,25.7617,-80.1918
+Minneapolis,9,2,11,57,PM2.5,Good,44.9778,-93.265
+New York City,14,3,10,57,PM2.5,Good,40.7128,-74.006
+Orlando,23,3,11,44,Ozone,Good,28.5383,-81.3792
+Philadelphia,14,2,13,60,PM2.5,Moderate,39.9526,-75.1652
+Phoenix,24,0,10,84,Ozone,Moderate,33.4484,-112.074
+Portland,13,2,10,45,Ozone,Good,45.5155,-122.6793
+Raleigh,17,3,9,45,Ozone,Good,35.7796,-78.6382
+Richmond,16,3,11,45,Ozone,Good,37.5407,-77.436
+San Francisco,13,1,13,50,PM2.5,Good,37.7749,-122.4194
+Seattle,11,2,7,48,Ozone,Good,47.6062,-122.3321
+State College,11,3,8,45,Ozone,Good,40.7934,-77.86
+"Washington, D.C.",16,2,12,52,Ozone,Good,38.9072,-77.0369

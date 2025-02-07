@@ -1,0 +1,349 @@
+city,state,averageTempMonthly,month,lat,lon,averageAQIMonthly,mainPollutantMonthly,AQI category,averagePrecipitationMonthly,averageWindSpeedMonthly
+Athens,GA,9,January,33.9519,-83.3576,43,PM2.5,Good,7,7
+Baltimore,MD,7,January,39.2904,-76.6122,37,PM2.5,Good,1,14
+Boston,MA,3,January,42.3601,-71.0589,41,PM2.5,Good,4,17
+Chapel Hill,NC,10,January,35.9132,-79.0558,25,PM2.5,Good,2,9
+Charlotte,NC,9,January,35.2271,-80.8431,42,PM2.5,Good,4,10
+Chicago,IL,0,January,41.8781,87.6298,53,PM2.5,Moderate,2,15
+Cleveland,OH,3,January,41.4993,-81.6944,49,PM2.5,Good,4,18
+Dallas,TX,11,January,32.7767,-96.797,45,PM2.5,Good,1,13
+Denver,CO,-2,January,39.7392,-104.9903,58,PM2.5,Moderate,0,10
+Detroit,MI,0,January,42.3314,-83.0458,57,PM2.5,Moderate,2,15
+Greensboro,NC,7,January,36.0726,-79.7915,32,PM2.5,Good,3,10
+Houston,TX,16,January,29.7604,-95.3698,59,PM2.5,Good,5,18
+Ithaca,NY,0,January,42.444,-76.5019,29,Ozone,Good,3,12
+Kahului,HI,22,January,20.889,-156.4743,23,PM2.5,Good,3,11
+Los Angeles,CA,13,January,34.0522,-118.2437,56,PM2.5,Moderate,5,5
+Madison,WI,-2,January,43.0731,-89.4012,43,PM2.5,Good,1,11
+Miami,FL,22,January,25.7617,-80.1918,55,PM2.5,Moderate,0,11
+Minneapolis,MN,-6,January,44.9778,-93.265,60,PM2.5,Good,1,11
+New York City,NY,5,January,40.7128,-74.006,48,PM2.5,Good,4,10
+Orlando,FL,18,January,28.5383,-81.3792,43,Ozone,Good,0,10
+Philadelphia,PA,6,January,39.9526,-75.1652,51,PM2.5,Moderate,2,14
+Phoenix,AZ,12,January,33.4484,-112.074,66,PM2.5,Moderate,0,8
+Portland,OR,6,January,45.5155,-122.6793,40,PM2.5,Good,2,13
+Raleigh,NC,10,January,35.7796,-78.6382,38,PM2.5,Good,2,9
+Richmond,VA,8,January,37.5407,-77.436,39,PM2.5,Good,2,12
+San Francisco,CA,11,January,37.7749,-122.4194,40,PM2.5,Good,6,15
+Seattle,WA,6,January,47.6062,-122.3321,48,PM2.5,Good,2,6
+State College,PA,2,January,40.7934,-77.86,36,PM2.5,Good,2,10
+"Washington, D.C.",DC,7,January,38.9072,-77.0369,40,PM2.5,Good,1,13
+Athens,GA,13,February,33.9519,-83.3576,47,PM2.5,Good,2,8
+Baltimore,MD,8,February,39.2904,-76.6122,43,Ozone,Good,1,16
+Boston,MA,2,February,42.3601,-71.0589,45,PM2.5,Good,1,18
+Chapel Hill,NC,12,February,35.9132,-79.0558,27,PM2.5,Good,2,11
+Charlotte,NC,12,February,35.2271,-80.8431,43,PM2.5,Good,2,11
+Chicago,IL,1,February,41.8781,87.6298,47,PM2.5,Good,3,18
+Cleveland,OH,3,February,41.4993,-81.6944,49,PM2.5,Good,2,20
+Dallas,TX,11,February,32.7767,-96.797,50,PM2.5,Good,2,14
+Denver,CO,0,February,39.7392,-104.9903,56,Ozone,Moderate,0,13
+Detroit,MI,0,February,42.3314,-83.0458,53,PM2.5,Moderate,2,20
+Greensboro,NC,10,February,36.0726,-79.7915,32,PM2.5,Good,2,13
+Houston,TX,16,February,29.7604,-95.3698,56,PM2.5,Moderate,1,19
+Ithaca,NY,0,February,42.444,-76.5019,35,Ozone,Good,2,15
+Kahului,HI,23,February,20.889,-156.4743,25,PM2.5,Good,0,20
+Los Angeles,CA,13,February,34.0522,-118.2437,59,PM2.5,Moderate,2,6
+Madison,WI,-1,February,43.0731,-89.4012,35,PM2.5,Good,2,14
+Miami,FL,24,February,25.7617,-80.1918,52,PM2.5,Moderate,5,12
+Minneapolis,MN,-6,February,44.9778,-93.265,46,PM2.5,Good,2,12
+New York City,NY,5,February,40.7128,-74.006,52,PM2.5,Moderate,1,10
+Orlando,FL,21,February,28.5383,-81.3792,44,Ozone,Good,0,12
+Philadelphia,PA,6,February,39.9526,-75.1652,54,PM2.5,Moderate,1,14
+Phoenix,AZ,14,February,33.4484,-112.074,57,PM10,Moderate,0,12
+Portland,OR,5,February,45.5155,-122.6793,43,PM2.5,Good,2,12
+Raleigh,NC,12,February,35.7796,-78.6382,41,Ozone,Good,2,11
+Richmond,VA,10,February,37.5407,-77.436,41,Ozone,Good,1,14
+San Francisco,CA,9,February,37.7749,-122.4194,46,PM2.5,Good,2,13
+Seattle,WA,5,February,47.6062,-122.3321,47,PM2.5,Good,2,10
+State College,PA,3,February,40.7934,-77.86,43,Ozone,Good,1,12
+"Washington, D.C.",DC,8,February,38.9072,-77.0369,45,Ozone,Good,1,14
+Athens,GA,13,March,33.9519,-83.3576,58,PM2.5,Moderate,3,8
+Baltimore,MD,9,March,39.2904,-76.6122,44,Ozone,Good,1,17
+Boston,MA,5,March,42.3601,-71.0589,45,Ozone,Good,3,20
+Chapel Hill,NC,13,March,35.9132,-79.0558,45,Ozone,Good,2,10
+Charlotte,NC,13,March,35.2271,-80.8431,51,Ozone,Good,1,12
+Chicago,IL,4,March,41.8781,87.6298,50,Ozone,Good,2,18
+Cleveland,OH,4,March,41.4993,-81.6944,49,Ozone,Good,3,20
+Dallas,TX,16,March,32.7767,-96.797,52,Ozone,Good,2,14
+Denver,CO,2,March,39.7392,-104.9903,58,Ozone,Moderate,0,14
+Detroit,MI,2,March,42.3314,-83.0458,57,PM2.5,Moderate,2,19
+Greensboro,NC,11,March,36.0726,-79.7915,49,Ozone,Good,2,12
+Houston,TX,20,March,29.7604,-95.3698,65,PM2.5,Moderate,1,20
+Ithaca,NY,1,March,42.444,-76.5019,40,Ozone,Good,2,14
+Kahului,HI,23,March,20.889,-156.4743,19,PM2.5,Good,1,16
+Los Angeles,CA,13,March,34.0522,-118.2437,48,PM2.5,Good,3,6
+Madison,WI,1,March,43.0731,-89.4012,39,PM2.5,Good,3,13
+Miami,FL,25,March,25.7617,-80.1918,58,PM2.5,Moderate,3,12
+Minneapolis,MN,-2,March,44.9778,-93.265,49,Ozone,Good,2,13
+New York City,NY,7,March,40.7128,-74.006,50,Ozone,Good,2,13
+Orlando,FL,22,March,28.5383,-81.3792,49,Ozone,Good,0,13
+Philadelphia,PA,7,March,39.9526,-75.1652,50,PM2.5,Good,1,17
+Phoenix,AZ,16,March,33.4484,-112.074,54,Ozone,Moderate,1,10
+Portland,OR,7,March,45.5155,-122.6793,37,Ozone,Good,3,12
+Raleigh,NC,13,March,35.7796,-78.6382,45,Ozone,Good,2,10
+Richmond,VA,10,March,37.5407,-77.436,45,Ozone,Good,1,14
+San Francisco,CA,10,March,37.7749,-122.4194,41,Ozone,Good,5,16
+Seattle,WA,7,March,47.6062,-122.3321,47,Ozone,Good,2,9
+State College,PA,4,March,40.7934,-77.86,42,Ozone,Good,2,12
+"Washington, D.C.",DC,9,March,38.9072,-77.0369,47,Ozone,Good,1,16
+Athens,GA,16,April,33.9519,-83.3576,58,Ozone,Moderate,5,8
+Baltimore,MD,17,April,39.2904,-76.6122,59,Ozone,Good,3,16
+Boston,MA,10,April,42.3601,-71.0589,52,Ozone,Good,2,17
+Chapel Hill,NC,17,April,35.9132,-79.0558,50,Ozone,Good,6,11
+Charlotte,NC,17,April,35.2271,-80.8431,54,Ozone,Good,5,11
+Chicago,IL,11,April,41.8781,87.6298,57,Ozone,Moderate,1,16
+Cleveland,OH,11,April,41.4993,-81.6944,57,Ozone,Good,2,17
+Dallas,TX,18,April,32.7767,-96.797,52,Ozone,Moderate,1,14
+Denver,CO,9,April,39.7392,-104.9903,76,Ozone,Moderate,1,14
+Detroit,MI,9,April,42.3314,-83.0458,60,PM2.5,Moderate,2,16
+Greensboro,NC,16,April,36.0726,-79.7915,53,Ozone,Good,6,12
+Houston,TX,20,April,29.7604,-95.3698,69,Ozone,Moderate,5,18
+Ithaca,NY,10,April,42.444,-76.5019,50,Ozone,Good,4,11
+Kahului,HI,24,April,20.889,-156.4743,16,PM2.5,Good,1,18
+Los Angeles,CA,16,April,34.0522,-118.2437,82,Ozone,Moderate,0,4
+Madison,WI,9,April,43.0731,-89.4012,49,Ozone,Good,3,14
+Miami,FL,26,April,25.7617,-80.1918,48,PM2.5,Good,8,13
+Minneapolis,MN,7,April,44.9778,-93.265,51,Ozone,Good,3,16
+New York City,NY,13,April,40.7128,-74.006,58,Ozone,Good,4,13
+Orlando,FL,24,April,28.5383,-81.3792,45,Ozone,Good,2,13
+Philadelphia,PA,14,April,39.9526,-75.1652,57,Ozone,Moderate,4,15
+Phoenix,AZ,24,April,33.4484,-112.074,85,Ozone,Moderate,0,10
+Portland,OR,11,April,45.5155,-122.6793,38,Ozone,Good,4,11
+Raleigh,NC,17,April,35.7796,-78.6382,48,Ozone,Good,6,11
+Richmond,VA,17,April,37.5407,-77.436,53,Ozone,Good,3,13
+San Francisco,CA,13,April,37.7749,-122.4194,46,Ozone,Good,0,16
+Seattle,WA,9,April,47.6062,-122.3321,44,Ozone,Good,3,10
+State College,PA,12,April,40.7934,-77.86,57,Ozone,Good,5,9
+"Washington, D.C.",DC,17,April,38.9072,-77.0369,60,Ozone,Good,3,14
+Athens,GA,20,May,33.9519,-83.3576,54,Ozone,Good,2,9
+Baltimore,MD,19,May,39.2904,-76.6122,55,Ozone,Moderate,0,14
+Boston,MA,16,May,42.3601,-71.0589,50,Ozone,Good,1,18
+Chapel Hill,NC,19,May,35.9132,-79.0558,43,Ozone,Good,1,12
+Charlotte,NC,20,May,35.2271,-80.8431,50,Ozone,Good,2,12
+Chicago,IL,17,May,41.8781,87.6298,79,Ozone,Moderate,0,14
+Cleveland,OH,14,May,41.4993,-81.6944,62,Ozone,Moderate,2,14
+Dallas,TX,24,May,32.7767,-96.797,82,Ozone,Moderate,1,11
+Denver,CO,15,May,39.7392,-104.9903,85,Ozone,Moderate,4,12
+Detroit,MI,15,May,42.3314,-83.0458,63,Ozone,Moderate,0,14
+Greensboro,NC,18,May,36.0726,-79.7915,47,Ozone,Good,2,13
+Houston,TX,25,May,29.7604,-95.3698,94,Ozone,Moderate,5,14
+Ithaca,NY,13,May,42.444,-76.5019,47,Ozone,Good,0,10
+Kahului,HI,25,May,20.889,-156.4743,19,PM2.5,Good,0,22
+Los Angeles,CA,17,May,34.0522,-118.2437,67,Ozone,Good,0,4
+Madison,WI,16,May,43.0731,-89.4012,68,Ozone,Moderate,1,10
+Miami,FL,27,May,25.7617,-80.1918,56,Ozone,Moderate,4,11
+Minneapolis,MN,18,May,44.9778,-93.265,73,Ozone,Good,1,12
+New York City,NY,17,May,40.7128,-74.006,58,Ozone,Moderate,1,10
+Orlando,FL,25,May,28.5383,-81.3792,59,Ozone,Good,3,11
+Philadelphia,PA,17,May,39.9526,-75.1652,61,Ozone,Moderate,0,13
+Phoenix,AZ,29,May,33.4484,-112.074,94,Ozone,Moderate,0,12
+Portland,OR,17,May,45.5155,-122.6793,45,Ozone,Good,0,9
+Raleigh,NC,19,May,35.7796,-78.6382,48,Ozone,Good,1,12
+Richmond,VA,18,May,37.5407,-77.436,47,Ozone,Good,3,12
+San Francisco,CA,14,May,37.7749,-122.4194,53,PM2.5,Moderate,0,17
+Seattle,WA,16,May,47.6062,-122.3321,44,Ozone,Good,0,7
+State College,PA,15,May,40.7934,-77.86,50,Ozone,Good,0,7
+"Washington, D.C.",DC,18,May,38.9072,-77.0369,57,Ozone,Moderate,1,12
+Athens,GA,23,June,33.9519,-83.3576,79,Ozone,Moderate,6,7
+Baltimore,MD,23,June,39.2904,-76.6122,84,Ozone,Moderate,4,14
+Boston,MA,18,June,42.3601,-71.0589,58,Ozone,Moderate,2,15
+Chapel Hill,NC,24,June,35.9132,-79.0558,63,Ozone,Moderate,2,9
+Charlotte,NC,23,June,35.2271,-80.8431,72,Ozone,Moderate,3,9
+Chicago,IL,22,June,41.8781,87.6298,113,Ozone,Unhealthy for Sensitive Groups,1,14
+Cleveland,OH,20,June,41.4993,-81.6944,101,PM2.5,Moderate,2,13
+Dallas,TX,28,June,32.7767,-96.797,86,Ozone,Moderate,3,12
+Denver,CO,19,June,39.7392,-104.9903,82,Ozone,Moderate,4,13
+Detroit,MI,20,June,42.3314,-83.0458,103,PM2.5,Moderate,2,13
+Greensboro,NC,21,June,36.0726,-79.7915,67,PM2.5,Moderate,2,11
+Houston,TX,29,June,29.7604,-95.3698,84,Ozone,Moderate,1,13
+Ithaca,NY,18,June,42.444,-76.5019,44,Ozone,Good,4,9
+Kahului,HI,26,June,20.889,-156.4743,14,PM2.5,Good,0,23
+Los Angeles,CA,19,June,34.0522,-118.2437,70,Ozone,Moderate,0,4
+Madison,WI,21,June,43.0731,-89.4012,107,Ozone,Unhealthy for Sensitive Groups,1,8
+Miami,FL,28,June,25.7617,-80.1918,46,PM2.5,Good,6,9
+Minneapolis,MN,23,June,44.9778,-93.265,102,Ozone,Moderate,1,10
+New York City,NY,21,June,40.7128,-74.006,88,PM2.5,Moderate,2,9
+Orlando,FL,27,June,28.5383,-81.3792,48,Ozone,Good,5,12
+Philadelphia,PA,21,June,39.9526,-75.1652,96,PM2.5,Moderate,3,13
+Phoenix,AZ,32,June,33.4484,-112.074,110,Ozone,Unhealthy for Sensitive Groups,0,11
+Portland,OR,19,June,45.5155,-122.6793,43,Ozone,Good,1,10
+Raleigh,NC,24,June,35.7796,-78.6382,70,PM2.5,Moderate,2,9
+Richmond,VA,22,June,37.5407,-77.436,72,PM2.5,Moderate,3,10
+San Francisco,CA,15,June,37.7749,-122.4194,55,PM2.5,Good,0,16
+Seattle,WA,16,June,47.6062,-122.3321,42,Ozone,Good,0,7
+State College,PA,19,June,40.7934,-77.86,80,Ozone,Moderate,3,7
+"Washington, D.C.",DC,23,June,38.9072,-77.0369,88,Ozone,Moderate,1,13
+Athens,GA,26,July,33.9519,-83.3576,72,Ozone,Moderate,3,5
+Baltimore,MD,28,July,39.2904,-76.6122,73,Ozone,Moderate,3,11
+Boston,MA,24,July,42.3601,-71.0589,58,Ozone,Moderate,8,14
+Chapel Hill,NC,28,July,35.9132,-79.0558,48,Ozone,Good,4,8
+Charlotte,NC,27,July,35.2271,-80.8431,67,Ozone,Moderate,4,8
+Chicago,IL,24,July,41.8781,87.6298,85,Ozone,Moderate,9,11
+Cleveland,OH,24,July,41.4993,-81.6944,72,Ozone,Moderate,4,12
+Dallas,TX,32,July,32.7767,-96.797,82,Ozone,Moderate,0,13
+Denver,CO,24,July,39.7392,-104.9903,87,Ozone,Moderate,1,13
+Detroit,MI,22,July,42.3314,-83.0458,70,Ozone,Moderate,5,11
+Greensboro,NC,26,July,36.0726,-79.7915,56,Ozone,Good,2,9
+Houston,TX,30,July,29.7604,-95.3698,71,PM2.5,Moderate,1,13
+Ithaca,NY,22,July,42.444,-76.5019,41,Ozone,Good,5,8
+Kahului,HI,26,July,20.889,-156.4743,14,PM2.5,Good,0,27
+Los Angeles,CA,23,July,34.0522,-118.2437,159,Ozone,Unhealthy,0,4
+Madison,WI,23,July,43.0731,-89.4012,60,Ozone,Moderate,3,7
+Miami,FL,30,July,25.7617,-80.1918,56,PM2.5,Moderate,6,7
+Minneapolis,MN,23,July,44.9778,-93.265,68,Ozone,Moderate,2,10
+New York City,NY,26,July,40.7128,-74.006,87,Ozone,Moderate,5,8
+Orlando,FL,28,July,28.5383,-81.3792,41,Ozone,Good,4,9
+Philadelphia,PA,26,July,39.9526,-75.1652,75,Ozone,Moderate,4,11
+Phoenix,AZ,39,July,33.4484,-112.074,128,Ozone,Unhealthy for Sensitive Groups,0,13
+Portland,OR,22,July,45.5155,-122.6793,45,Ozone,Good,0,10
+Raleigh,NC,28,July,35.7796,-78.6382,54,PM2.5,Good,4,8
+Richmond,VA,27,July,37.5407,-77.436,52,Ozone,Good,4,10
+San Francisco,CA,17,July,37.7749,-122.4194,63,Ozone,Moderate,0,15
+Seattle,WA,20,July,47.6062,-122.3321,53,Ozone,Good,0,7
+State College,PA,22,July,40.7934,-77.86,53,Ozone,Good,4,6
+"Washington, D.C.",DC,27,July,38.9072,-77.0369,73,Ozone,Moderate,5,11
+Athens,GA,26,August,33.9519,-83.3576,70,Ozone,Moderate,4,5
+Baltimore,MD,27,August,39.2904,-76.6122,53,Ozone,Good,2,14
+Boston,MA,22,August,42.3601,-71.0589,43,Ozone,Good,5,15
+Chapel Hill,NC,27,August,35.9132,-79.0558,45,Ozone,Good,1,8
+Charlotte,NC,26,August,35.2271,-80.8431,62,Ozone,Moderate,5,8
+Chicago,IL,24,August,41.8781,87.6298,72,Ozone,Moderate,3,14
+Cleveland,OH,22,August,41.4993,-81.6944,56,PM2.5,Moderate,4,15
+Dallas,TX,34,August,32.7767,-96.797,107,Ozone,Moderate,0,12
+Denver,CO,23,August,39.7392,-104.9903,86,Ozone,Moderate,1,13
+Detroit,MI,21,August,42.3314,-83.0458,62,PM2.5,Moderate,4,13
+Greensboro,NC,25,August,36.0726,-79.7915,49,Ozone,Good,2,9
+Houston,TX,31,August,29.7604,-95.3698,98,Ozone,Unhealthy for Sensitive Groups,0,14
+Ithaca,NY,19,August,42.444,-76.5019,33,Ozone,Good,6,10
+Kahului,HI,27,August,20.889,-156.4743,15,PM2.5,Good,0,26
+Los Angeles,CA,23,August,34.0522,-118.2437,116,Ozone,Unhealthy for Sensitive Groups,1,4
+Madison,WI,22,August,43.0731,-89.4012,52,PM2.5,Moderate,2,9
+Miami,FL,30,August,25.7617,-80.1918,48,PM2.5,Moderate,8,10
+Minneapolis,MN,23,August,44.9778,-93.265,61,PM2.5,Moderate,2,10
+New York City,NY,24,August,40.7128,-74.006,54,Ozone,Good,2,9
+Orlando,FL,29,August,28.5383,-81.3792,40,Ozone,Good,5,10
+Philadelphia,PA,25,August,39.9526,-75.1652,61,PM2.5,Moderate,2,12
+Phoenix,AZ,37,August,33.4484,-112.074,93,Ozone,Moderate,0,12
+Portland,OR,23,August,45.5155,-122.6793,71,Ozone,Good,0,9
+Raleigh,NC,27,August,35.7796,-78.6382,50,PM2.5,Good,1,8
+Richmond,VA,26,August,37.5407,-77.436,47,Ozone,Good,1,11
+San Francisco,CA,19,August,37.7749,-122.4194,56,PM2.5,Moderate,0,14
+Seattle,WA,21,August,47.6062,-122.3321,65,Ozone,Good,0,6
+State College,PA,21,August,40.7934,-77.86,41,Ozone,Good,5,7
+"Washington, D.C.",DC,26,August,38.9072,-77.0369,56,Ozone,Moderate,3,12
+Athens,GA,22,September,33.9519,-83.3576,58,Ozone,Moderate,0,6
+Baltimore,MD,23,September,39.2904,-76.6122,48,Ozone,Good,3,15
+Boston,MA,20,September,42.3601,-71.0589,46,PM2.5,Good,3,15
+Chapel Hill,NC,23,September,35.9132,-79.0558,38,Ozone,Good,4,7
+Charlotte,NC,23,September,35.2271,-80.8431,49,Ozone,Good,0,8
+Chicago,IL,20,September,41.8781,87.6298,55,Ozone,Moderate,2,12
+Cleveland,OH,20,September,41.4993,-81.6944,47,PM2.5,Good,0,13
+Dallas,TX,29,September,32.7767,-96.797,94,Ozone,Unhealthy for Sensitive Groups,2,11
+Denver,CO,19,September,39.7392,-104.9903,68,Ozone,Moderate,0,12
+Detroit,MI,18,September,42.3314,-83.0458,55,PM2.5,Moderate,1,10
+Greensboro,NC,21,September,36.0726,-79.7915,42,Ozone,Good,4,8
+Houston,TX,29,September,29.7604,-95.3698,98,Ozone,Moderate,1,12
+Ithaca,NY,16,September,42.444,-76.5019,33,Ozone,Good,2,7
+Kahului,HI,26,September,20.889,-156.4743,15,PM2.5,Good,0,24
+Los Angeles,CA,22,September,34.0522,-118.2437,89,Ozone,Moderate,0,4
+Madison,WI,20,September,43.0731,-89.4012,43,Ozone,Good,3,10
+Miami,FL,29,September,25.7617,-80.1918,40,PM2.5,Good,10,8
+Minneapolis,MN,20,September,44.9778,-93.265,53,PM2.5,Moderate,4,10
+New York City,NY,22,September,40.7128,-74.006,55,Ozone,Good,7,11
+Orlando,FL,27,September,28.5383,-81.3792,45,Ozone,Good,4,9
+Philadelphia,PA,22,September,39.9526,-75.1652,57,PM2.5,Moderate,5,13
+Phoenix,AZ,33,September,33.4484,-112.074,77,PM10,Moderate,0,10
+Portland,OR,19,September,45.5155,-122.6793,40,Ozone,Good,1,9
+Raleigh,NC,23,September,35.7796,-78.6382,41,Ozone,Good,4,7
+Richmond,VA,22,September,37.5407,-77.436,40,Ozone,Good,4,10
+San Francisco,CA,18,September,37.7749,-122.4194,54,PM2.5,Good,0,13
+Seattle,WA,16,September,47.6062,-122.3321,42,Ozone,Good,2,6
+State College,PA,17,September,40.7934,-77.86,36,Ozone,Good,3,6
+"Washington, D.C.",DC,23,September,38.9072,-77.0369,46,Ozone,Good,3,12
+Athens,GA,17,October,33.9519,-83.3576,46,PM2.5,Good,1,7
+Baltimore,MD,18,October,39.2904,-76.6122,37,Ozone,Good,0,14
+Boston,MA,15,October,42.3601,-71.0589,38,Ozone,Good,1,14
+Chapel Hill,NC,17,October,35.9132,-79.0558,35,Ozone,Good,1,6
+Charlotte,NC,18,October,35.2271,-80.8431,43,Ozone,Good,0,8
+Chicago,IL,14,October,41.8781,87.6298,50,PM2.5,Good,2,15
+Cleveland,OH,15,October,41.4993,-81.6944,45,PM2.5,Good,3,19
+Dallas,TX,21,October,32.7767,-96.797,50,Ozone,Good,9,13
+Denver,CO,11,October,39.7392,-104.9903,52,Ozone,Good,0,12
+Detroit,MI,12,October,42.3314,-83.0458,51,PM2.5,Moderate,1,15
+Greensboro,NC,16,October,36.0726,-79.7915,40,Ozone,Good,1,8
+Houston,TX,23,October,29.7604,-95.3698,59,Ozone,Moderate,2,17
+Ithaca,NY,12,October,42.444,-76.5019,32,Ozone,Good,3,11
+Kahului,HI,25,October,20.889,-156.4743,10,PM2.5,Good,0,16
+Los Angeles,CA,20,October,34.0522,-118.2437,84,Ozone,Moderate,0,4
+Madison,WI,11,October,43.0731,-89.4012,33,PM2.5,Good,2,12
+Miami,FL,27,October,25.7617,-80.1918,51,Ozone,Good,4,11
+Minneapolis,MN,10,October,44.9778,-93.265,38,PM2.5,Good,3,12
+New York City,NY,17,October,40.7128,-74.006,43,PM2.5,Good,2,9
+Orlando,FL,24,October,28.5383,-81.3792,43,Ozone,Good,1,12
+Philadelphia,PA,16,October,39.9526,-75.1652,48,PM2.5,Good,0,11
+Phoenix,AZ,28,October,33.4484,-112.074,87,PM10,Moderate,0,9
+Portland,OR,14,October,45.5155,-122.6793,43,PM2.5,Good,2,8
+Raleigh,NC,17,October,35.7796,-78.6382,38,Ozone,Good,1,6
+Richmond,VA,17,October,37.5407,-77.436,37,Ozone,Good,1,9
+San Francisco,CA,17,October,37.7749,-122.4194,48,PM2.5,Good,0,10
+Seattle,WA,12,October,47.6062,-122.3321,47,PM2.5,Good,2,6
+State College,PA,12,October,40.7934,-77.86,34,Ozone,Good,1,8
+"Washington, D.C.",DC,17,October,38.9072,-77.0369,40,Ozone,Good,0,11
+Athens,GA,11,November,33.9519,-83.3576,53,PM2.5,Moderate,1,8
+Baltimore,MD,10,November,39.2904,-76.6122,39,PM2.5,Good,2,15
+Boston,MA,6,November,42.3601,-71.0589,36,Ozone,Good,1,17
+Chapel Hill,NC,11,November,35.9132,-79.0558,38,PM2.5,Good,1,7
+Charlotte,NC,11,November,35.2271,-80.8431,46,PM2.5,Good,2,7
+Chicago,IL,7,November,41.8781,87.6298,50,PM2.5,Good,0,15
+Cleveland,OH,8,November,41.4993,-81.6944,48,PM2.5,Good,1,20
+Dallas,TX,14,November,32.7767,-96.797,52,PM2.5,Moderate,0,11
+Denver,CO,5,November,39.7392,-104.9903,52,Ozone,Good,0,10
+Detroit,MI,5,November,42.3314,-83.0458,56,PM2.5,Good,0,16
+Greensboro,NC,10,November,36.0726,-79.7915,36,PM2.5,Good,1,8
+Houston,TX,17,November,29.7604,-95.3698,50,PM2.5,Good,3,15
+Ithaca,NY,3,November,42.444,-76.5019,31,Ozone,Good,2,13
+Kahului,HI,25,November,20.889,-156.4743,15,PM2.5,Good,0,19
+Los Angeles,CA,18,November,34.0522,-118.2437,65,PM2.5,Moderate,0,4
+Madison,WI,4,November,43.0731,-89.4012,32,PM2.5,Good,1,12
+Miami,FL,25,November,25.7617,-80.1918,38,Ozone,Good,7,12
+Minneapolis,MN,3,November,44.9778,-93.265,40,PM2.5,Good,0,12
+New York City,NY,9,November,40.7128,-74.006,45,PM2.5,Good,1,10
+Orlando,FL,21,November,28.5383,-81.3792,39,Ozone,Good,4,12
+Philadelphia,PA,8,November,39.9526,-75.1652,53,PM2.5,Moderate,2,12
+Phoenix,AZ,21,November,33.4484,-112.074,72,PM10,Moderate,0,8
+Portland,OR,9,November,45.5155,-122.6793,56,PM2.5,Moderate,4,10
+Raleigh,NC,11,November,35.7796,-78.6382,43,PM2.5,Good,1,7
+Richmond,VA,9,November,37.5407,-77.436,40,PM2.5,Good,1,9
+San Francisco,CA,14,November,37.7749,-122.4194,50,PM2.5,Moderate,0,9
+Seattle,WA,7,November,47.6062,-122.3321,59,PM2.5,Moderate,3,6
+State College,PA,5,November,40.7934,-77.86,37,Ozone,Good,1,10
+"Washington, D.C.",DC,10,November,38.9072,-77.0369,42,PM2.5,Good,2,11
+Athens,GA,9,December,33.9519,-83.3576,46,PM2.5,Good,3,8
+Baltimore,MD,8,December,39.2904,-76.6122,39,PM2.5,Good,5,13
+Boston,MA,5,December,42.3601,-71.0589,39,PM2.5,Good,4,15
+Chapel Hill,NC,10,December,35.9132,-79.0558,35,PM2.5,Good,6,7
+Charlotte,NC,9,December,35.2271,-80.8431,43,PM2.5,Good,5,9
+Chicago,IL,5,December,41.8781,87.6298,51,PM2.5,Good,2,14
+Cleveland,OH,7,December,41.4993,-81.6944,51,PM2.5,Moderate,2,17
+Dallas,TX,12,December,32.7767,-96.797,43,PM2.5,Good,3,12
+Denver,CO,1,December,39.7392,-104.9903,52,Ozone,Good,0,10
+Detroit,MI,4,December,42.3314,-83.0458,53,PM2.5,Moderate,2,14
+Greensboro,NC,7,December,36.0726,-79.7915,37,PM2.5,Good,5,9
+Houston,TX,15,December,29.7604,-95.3698,58,PM2.5,Moderate,3,16
+Ithaca,NY,3,December,42.444,-76.5019,28,Ozone,Good,4,12
+Kahului,HI,23,December,20.889,-156.4743,14,PM2.5,Good,0,19
+Los Angeles,CA,16,December,34.0522,-118.2437,69,PM2.5,Moderate,3,4
+Madison,WI,2,December,43.0731,-89.4012,34,PM2.5,Good,1,11
+Miami,FL,22,December,25.7617,-80.1918,44,Ozone,Good,3,13
+Minneapolis,MN,1,December,44.9778,-93.265,46,PM2.5,Good,2,10
+New York City,NY,7,December,40.7128,-74.006,55,PM2.5,Moderate,6,10
+Orlando,FL,18,December,28.5383,-81.3792,35,Ozone,Good,3,13
+Philadelphia,PA,7,December,39.9526,-75.1652,59,PM2.5,Moderate,6,11
+Phoenix,AZ,15,December,33.4484,-112.074,84,PM2.5,Moderate,0,7
+Portland,OR,8,December,45.5155,-122.6793,40,PM2.5,Good,7,13
+Raleigh,NC,10,December,35.7796,-78.6382,38,PM2.5,Good,5,7
+Richmond,VA,8,December,37.5407,-77.436,39,PM2.5,Good,7,8
+San Francisco,CA,11,December,37.7749,-122.4194,53,PM2.5,Moderate,2,8
+Seattle,WA,7,December,47.6062,-122.3321,50,PM2.5,Good,5,6
+State College,PA,4,December,40.7934,-77.86,40,PM2.5,Good,3,8
+"Washington, D.C.",DC,8,December,38.9072,-77.0369,41,PM2.5,Good,5,10

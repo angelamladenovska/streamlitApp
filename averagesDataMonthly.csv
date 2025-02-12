@@ -4,7 +4,7 @@ Baltimore,MD,7,January,39.2904,-76.6122,37,PM2.5,Good,1,14
 Boston,MA,3,January,42.3601,-71.0589,41,PM2.5,Good,4,17
 Chapel Hill,NC,10,January,35.9132,-79.0558,25,PM2.5,Good,2,9
 Charlotte,NC,9,January,35.2271,-80.8431,42,PM2.5,Good,4,10
-Chicago,IL,0,January,41.8781,87.6298,53,PM2.5,Moderate,2,15
+Chicago,IL,0,January,41.8781,-87.6298,53,PM2.5,Moderate,2,15
 Cleveland,OH,3,January,41.4993,-81.6944,49,PM2.5,Good,4,18
 Dallas,TX,11,January,32.7767,-96.797,45,PM2.5,Good,1,13
 Denver,CO,-2,January,39.7392,-104.9903,58,PM2.5,Moderate,0,10

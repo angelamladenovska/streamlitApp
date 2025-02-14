@@ -201,9 +201,9 @@ elif report_type == "📈 General Trends":
         html(map_html, height=500)
 
     elif city_report_type == "Radar Chart":
-        # Allow the user to choose the pollutant dataset type:
+ 
         radar_type = st.radio("Select Data Type", ["Annual Pollutants", "Monthly Pollutants"])
-        # Allow selection of one or more cities for the radar chart
+
         cities_selected = st.multiselect("Select one or more cities for the Radar Chart", options=city_options, default=[selected_city])
         
         if not cities_selected:
@@ -217,7 +217,7 @@ elif report_type == "📈 General Trends":
                     filtered_data = monthly_pollutants[monthly_pollutants["city"] == city]
                     
                 if not filtered_data.empty:
-                    # Adjust the pollutant column names as needed
+             
                     pollutants = ["Ozone", "PM25", "CO", "PM10", "NO2"]
                     values = filtered_data.iloc[0][pollutants].tolist()
                     fig.add_trace(go.Scatterpolar(
